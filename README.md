@@ -1,0 +1,4 @@
+- Hi, I'm Ben. I'm an engineer in California. South Bay Area.
+- I'm interested in structural analysis and design, and learning Python to aid in that end.
+- New Year's resolution 2024: begin replacing Excel worksheets and streamlining/automating my workflow. Current progress: 0/100
+- 
